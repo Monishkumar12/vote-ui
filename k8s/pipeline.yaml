@@ -13,7 +13,7 @@ spec:
   - default: master
     name: GIT_REVISION
     type: string
-  - default: quay.io/bluesman/vote-ui
+  - default: quay.io/monishkumar/vote-api
     name: IMAGE_NAME
     type: string
   - default: .
